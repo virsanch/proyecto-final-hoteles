@@ -1,4 +1,7 @@
 # Plantilla de Proyecto de Ciencia de Datos
+# Sistema inteligente de predicción de cancelaciones hoteleras SH (SmartHost)
+
+https://proyecto-final-hoteles-m8gru665qnb47845zq96bb.streamlit.app/
 
 Esta plantilla está diseñada para impulsar proyectos de ciencia de datos proporcionando una configuración básica para conexiones de base de datos, procesamiento de datos, y desarrollo de modelos de aprendizaje automático. Incluye una organización estructurada de carpetas para tus conjuntos de datos y un conjunto de paquetes de Python predefinidos necesarios para la mayoría de las tareas de ciencia de datos.
 
