@@ -1,5 +1,5 @@
 # Plantilla de Proyecto de Ciencia de Datos
-# Sistema inteligente de predicción de cancelaciones hoteleras SH (SmartHost)
+# Sistema inteligente de predicción de cancelaciones hoteleras - SmartHost 
 
 https://proyecto-final-hoteles-m8gru665qnb47845zq96bb.streamlit.app/
 
